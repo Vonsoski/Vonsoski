@@ -1,6 +1,6 @@
 # Igor Vonsoski!
 
-Olá, meu nome é Igor Vonsoski, sou graduado em Marketing, despertei minha vontade por programar e sigo estudando para me aproximar de se tornar um desenvolvedor Full Stack!
+Olá, meu nome é Igor Vonsoski, sou graduado em Marketing, despertei minha vontade por programar neste ano de 2020 e sigo estudando para me aprimorar e me tornar um desenvolvedor Full Stack!
 
 - 👨🏻‍💻Front-end Jr.
 - 🔍 Aberto a novas oportunidades.
