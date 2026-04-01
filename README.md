@@ -1,22 +1,18 @@
-# Igor Vonsoski!
+Olá! Meu nome é Igor Vonsoski. Atuo na área de tecnologia com foco em desenvolvimento backend e automação de processos, com evolução contínua desde 2020.
 
-Olá! Meu nome é Igor Vonsoski, sou graduado em Marketing e iniciei minha transição para a área de tecnologia em 2020, durante a pandemia. Desde então, venho estudando programação de forma contínua, com foco em desenvolvimento backend, automações e construção de soluções que otimizem processos.
+Tenho experiência prática com desenvolvimento de RPAs, scripts e integrações, atuando desde o entendimento das necessidades do negócio até a implementação e acompanhamento das soluções em produção. Busco sempre criar soluções que tragam eficiência e reduzam atividades manuais.
 
-Tenho experiência prática com criação de RPAs, scripts e integrações, buscando fortalecer minha base em lógica, APIs, bancos de dados e ambientes conteinerizados, com o objetivo de me tornar um desenvolvedor Full Stack com forte atuação em backend.
+Atualmente, sigo aprofundando meus conhecimentos em lógica de programação, APIs, bancos de dados e arquitetura backend, com o objetivo de evoluir como desenvolvedor com foco em backend.
 
-👨🏻‍💻 Desenvolvedor Backend Jr.
-
+👨🏻‍💻 Desenvolvedor RPA | Backend Jr.
 🔍 Aberto a novas oportunidades
-
-⚙️ Python • Node.js • MySQL
-
+⚙️ Python • MySQL
 🐳 Estudando Docker e ambientes conteinerizados
+📚 APIs REST, integrações e boas práticas de desenvolvimento
+🧑‍💻 Projetos voltados a backend e automação
 
-📚 APIs REST, lógica de programação e boas práticas de backend
-
-🧑‍💻 Desenvolvendo projetos backend e automações para aperfeiçoar meus conhecimentos
-
-💬 Sobre mim: comunicativo, curioso, gosto de entender como as coisas funcionam e acredito que tecnologia bem aplicada simplifica a vida das pessoas
+💬 Sobre mim: perfil analítico, curioso e orientado a soluções, com facilidade para entender processos e transformar necessidades em automações eficientes.
 
 *Redes Sociais*:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-vonsoski-110535163/)](https://www.linkedin.com/in/igor-vonsoski-110535163/) [![Gmail Badge](https://img.shields.io/badge/-igorvonsoski@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorvonsoski@gmail.com)](mailto:igorvonsoski@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-vonsoski-110535163/)](https://www.linkedin.com/in/igor-vonsoski-110535163/) 
+[![Outlook Badge](https://img.shields.io/badge/-igorvonsoski@outlook.com.br-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:igorvonsoski@outlook.com.br)](mailto:igorvonsoski@outlook.com.br)
